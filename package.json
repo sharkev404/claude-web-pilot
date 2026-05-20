@@ -1,0 +1,27 @@
+{
+  "name": "web-pilot",
+  "version": "0.1.0",
+  "description": "Skill para Claude Code: controla un navegador Chrome real con sesion persistente, ejecuta acciones en cualquier sitio web de forma legal y auditada.",
+  "main": "lib/browser.js",
+  "scripts": {
+    "navigate": "node scripts/navigate.js",
+    "do": "node scripts/do.js",
+    "extract": "node scripts/extract.js",
+    "screenshot": "node scripts/screenshot.js"
+  },
+  "keywords": [
+    "claude-code",
+    "skill",
+    "playwright",
+    "browser-automation",
+    "web-scraping"
+  ],
+  "author": "Kev",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
