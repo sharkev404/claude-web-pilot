@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # web-pilot installer (Mac / Linux)
 # Uso:
-#   curl -fsSL https://raw.githubusercontent.com/<USER>/claude-web-pilot/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/sharkev404/claude-web-pilot/main/install.sh | bash
 # O despues de clonar:
 #   ./install.sh
 

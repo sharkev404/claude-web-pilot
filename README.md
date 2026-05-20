@@ -10,7 +10,7 @@
 
 Abre Claude Code y dile:
 
-> **"Instala esta skill: https://github.com/&lt;USER&gt;/claude-web-pilot"**
+> **"Instala esta skill: https://github.com/sharkev404/claude-web-pilot"**
 
 Claude clonará el repo y correrá el installer automáticamente. Listo.
 
@@ -19,7 +19,7 @@ Claude clonará el repo y correrá el installer automáticamente. Listo.
 **Windows (PowerShell):**
 
 ```powershell
-git clone https://github.com/<USER>/claude-web-pilot
+git clone https://github.com/sharkev404/claude-web-pilot
 cd claude-web-pilot
 .\install.ps1
 ```
@@ -27,7 +27,7 @@ cd claude-web-pilot
 **Mac / Linux:**
 
 ```bash
-git clone https://github.com/<USER>/claude-web-pilot
+git clone https://github.com/sharkev404/claude-web-pilot
 cd claude-web-pilot
 ./install.sh
 ```
@@ -159,7 +159,7 @@ claude-web-pilot/
 
 Si el usuario te pidió **"instala esta skill"** y te pasó este link, sigue estos pasos:
 
-1. `git clone https://github.com/<USER>/claude-web-pilot` en `~/.claude/skills/` (o donde el usuario prefiera)
+1. `git clone https://github.com/sharkev404/claude-web-pilot` en `~/.claude/skills/` (o donde el usuario prefiera)
 2. `cd claude-web-pilot`
 3. Corre `./install.sh` (Mac/Linux) o `.\install.ps1` (Windows)
 4. Verifica con `node scripts/navigate.js "https://example.com"`
@@ -175,6 +175,6 @@ MIT. Úsala, mejórala, compártela.
 
 ## 🛠️ Construida por
 
-**Kev** ([@PACT](https://github.com/)) — parte del ecosistema **KEV-SKILLS**: herramientas gratis de IA para LATAM y el mundo.
+**Kev** ([@sharkev404](https://github.com/sharkev404)) — parte del ecosistema **KEV-SKILLS**: herramientas gratis de IA para LATAM y el mundo.
 
 ¿Encontraste un bug o quieres una acción nueva? Abre un issue.

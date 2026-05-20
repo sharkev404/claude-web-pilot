@@ -1,6 +1,6 @@
 # web-pilot installer (Windows / PowerShell)
 # Uso:
-#   irm https://raw.githubusercontent.com/<USER>/claude-web-pilot/main/install.ps1 | iex
+#   irm https://raw.githubusercontent.com/sharkev404/claude-web-pilot/main/install.ps1 | iex
 # O despues de clonar:
 #   .\install.ps1
 
